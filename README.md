@@ -1,16 +1,18 @@
 # appbank
 
-A new Flutter project.
+Um aplicativo criado apartir de um mockup encontrado no site do Freepik.
+![AppBank](https://github.com/luanjc77/AppBank-N1/assets/129614685/8de8f5ea-251c-4932-8419-4498cbe00c39)
 
-## Getting Started
+Baseando-se nesta imagem, nosso desafio era de recriar estas mesmas telas utilizando a linguagem DART(Flutter) seguindo fielmente o desing proposto, sem se preocupar muito com sua funcionalidade inicialmente, mas sim com a estética.
 
-This project is a starting point for a Flutter application.
+A ideia do aplicativo em si é que ele possa facilitar as operações bancárias dos clientes, fornecendo acesso seguro a uma variedade de serviços financeiros.
 
-A few resources to get you started if this is your first Flutter project:
+Público-Alvo: 
+  Clientes do banco, incluindo pessoas físicas e jurídicas.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Funcionalidades Principais:
+  -Autenticação e Segurança: Cadastro seguro de usuários, Autenticação multifatorial (PIN, impressão digital, reconhecimento facial, etc.).
+  -Contas e Saldos:Visualização de saldos de contas, Histórico de transações,Transferências internas e externas.
+  -Pagamentos e Transferências: Transferências entre contas próprias e de terceiros.  
+  -Investimentos: Acesso a informações sobre investimentos disponíveis, Compra e venda de ativos financeiros, Monitoramento de carteira de investimentos.
+  -Empréstimos e Crédito: Simulação de empréstimos, Solicitação de empréstimos e cartões de crédito, Pagamento de parcelas de empréstimos.

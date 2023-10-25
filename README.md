@@ -24,19 +24,31 @@ Nova Atualização (25/10/2023):
 
 
 Tela que faz a gestão das tranferências -> Create,Read,Update,Delete
+
+
+
 ![image](https://github.com/luanjc77/AppBank-N2/assets/129614685/d6a4fa5e-9a56-4d82-9b4b-319c06b2af9e)
 
 
 Histórico de Transferencias;
+
+
+
 ![image](https://github.com/luanjc77/AppBank-N2/assets/129614685/a38fd616-b7c2-4e7a-80db-34e2ad80fbe2)
 
 
 Lista de Contatos;
+
+
+
 ![image](https://github.com/luanjc77/AppBank-N2/assets/129614685/09e5a19f-c955-4a02-ad41-9b8fd1cd6beb)
 
 
 
 Tela que faz a gestão dos contatos -> Create,Read,Update,Delete
+
+
+
 ![image](https://github.com/luanjc77/AppBank-N2/assets/129614685/6032b184-6780-4f8d-9c82-0f83307f1f1c)
 
 

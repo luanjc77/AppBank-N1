@@ -24,7 +24,7 @@ Tivemos algumas alterações em telas que já existiam antes e a adição de nov
 
 Também foi mudada a tela de transferências bancárias, agora você pode inserir o nome da pessoa que deseja mandar uma graninha e o valor que ficará salvo na tela de histórico de transferencias, onde você pode consultar para quem e quanto você enviou. Ainda na tela da propria transferência, também se pode alterar uma uma transferência feita, no caso seira o valor, caso tenha enviado um valor errado, ou pode até mesmo deltar essa ultima transferência que foi feita.....NOTA: o dinheiro não vai retornar pra você AINDA hehe, ainda estou trabalhando nessa parte, então certifique-se de mandar o valor certo para a pessoa certa hehe!
 
-![Alt text](image.png)
+![Alt text](image.gif)
 
 #Executando o Projeto
 

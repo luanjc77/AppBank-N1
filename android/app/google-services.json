@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "448960617204",
+    "firebase_url": "https://appbank-3de87-default-rtdb.firebaseio.com",
+    "project_id": "appbank-3de87",
+    "storage_bucket": "appbank-3de87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448960617204:android:0ab722f73d716478631ca1",
+        "android_client_info": {
+          "package_name": "com.example.appbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9UKCwIakG65f7NStIRo0b7RWb0SdENE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

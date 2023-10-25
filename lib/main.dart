@@ -1,13 +1,24 @@
+import 'package:appbank/telas/addContato.dart';
 import 'package:flutter/material.dart';
-import 'package:appbank/Login.dart';
-import 'package:appbank/Cadastro.dart';
-import 'package:appbank/Capa.dart';
-import 'package:appbank/Home.dart';
-import 'package:appbank/Config.dart';
-import 'package:appbank/Usuario.dart';
-import 'package:appbank/Trade.dart';
+import 'package:appbank/telas/Login.dart';
+import 'package:appbank/telas/Cadastro.dart';
+import 'package:appbank/telas/Capa.dart';
+import 'package:appbank/telas/Home.dart';
+import 'package:appbank/telas/Config.dart';
+import 'package:appbank/telas/Usuario.dart';
+import 'package:appbank/telas/Trade.dart';
+import 'package:appbank/firebase/firebase_options.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:appbank/telas/listaContatos.dart';
 
-void main() {
+
+void main() async{
+  WidgetsFlutterBinding.ensureInitialized();
+
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+
   runApp(const MyApp());
 }
 
@@ -19,7 +30,7 @@ class MyApp extends StatelessWidget {
         
         title: 'AppBank',
         theme: ThemeData(primaryColor: Colors.deepPurple),
-        home: CapaPage(),
+        home: HomePage(),
         debugShowCheckedModeBanner: false,
       );
       
